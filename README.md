@@ -3,7 +3,7 @@ Demonstrates the use of image processing techniques with OpenCV to remove the ba
 
 How to use:
 
-Copy the code and paste it with filename.py and run it
+Copy the code from the filename "mini" and paste it with filename.py and run it
 
 Requirement:
 
